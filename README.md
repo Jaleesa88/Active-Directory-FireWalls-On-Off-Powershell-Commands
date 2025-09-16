@@ -35,12 +35,11 @@
 - Powershell Commands
 
 <h2>Creating Organizational Unit</h2>
-
+<br />Click On Mydomain.com: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e90eb5ad-d9fd-41ff-b145-b756da208284" />
-
-<h1>Click On Mydomain.com</h1>  
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/97e0d042-42f4-4f0a-8ed9-13f16df1eb0a" />
 <h1>Select New</h1>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/97e0d042-42f4-4f0a-8ed9-13f16df1eb0a" />
+
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bb518238-cf21-42f6-8b2f-c0fedb9831c9" />
 
 

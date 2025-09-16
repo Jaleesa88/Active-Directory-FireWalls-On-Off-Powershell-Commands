@@ -9,11 +9,7 @@
 
 - Microsoft Azure Resource Groups
 
- <h1>Click On Mydomain.com</h1>
-
 - Microsoft Azure Virtual Machines
-
-  <h1>Select New</h1>
 
 - Domain Controller VM
 
@@ -31,8 +27,12 @@
 <h2>Active Directory Steps</h2>
 
 - Create Organizational Unit
+
+  <h1>Click On Mydomain.com</h1>  
+
+  <h1>Select New</h1>
   
-- Turning Firewall off
+  - Turning Firewall off
 
 - Create Ticket as a End User
 

@@ -8,10 +8,10 @@
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure Resource Groups
-  Click On Mydomain.com
+  <h1>Click On Mydomain.com</h1>
 
 - Microsoft Azure Virtual Machines
-  Select New
+  <h1>Select New</h1>
 - Domain Controller VM
 
 - PowerShell

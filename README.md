@@ -39,9 +39,9 @@
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e90eb5ad-d9fd-41ff-b145-b756da208284" />
 <br />Select New:<br />
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/97e0d042-42f4-4f0a-8ed9-13f16df1eb0a" />
-
+<br />Type in Name box _Employee and click ok: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bb518238-cf21-42f6-8b2f-c0fedb9831c9" />
-
+<br /> <br/>
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/160e1551-cc2e-4c64-b007-3a6c8a8da225" />
 

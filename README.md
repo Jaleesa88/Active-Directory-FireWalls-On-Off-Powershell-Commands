@@ -92,7 +92,7 @@
 <h2>Powershell Commands</h2>
 
 <br />1. Use Command Ping on IP Address 10.0.0.4 to insure IP Address is Working 
-2. Use Command Host Name to show name of computer and network name: <br/>
+2. Use Command Host Name to show name of a computer and network name: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/24a4e05a-f8ac-49f3-a401-412700cc4ecd" />
 
 <br />Use Command ipconfig/all to show detailed network information about a Computer: <br/>

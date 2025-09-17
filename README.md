@@ -35,31 +35,38 @@
 - Powershell Commands
 
 <h2>Creating Organizational Unit</h2>
+
+
 <br />Click On Mydomain.com: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e90eb5ad-d9fd-41ff-b145-b756da208284" />
+
+
 <br />Select New:<br />
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/97e0d042-42f4-4f0a-8ed9-13f16df1eb0a" />
-<br />Type in Name box _Employee and click ok: <br/>
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bb518238-cf21-42f6-8b2f-c0fedb9831c9" />
-<br /> <br/>
 
+
+<br />Click Organization Unit: <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bb518238-cf21-42f6-8b2f-c0fedb9831c9" />
+
+
+<br />Type in Name box _Employee and click ok: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/160e1551-cc2e-4c64-b007-3a6c8a8da225" />
 
 <h2>Turning Firewall Off</h2>
 
-
+<br />Open Server Manager & Click Windows Defender Firewall Properties: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/7f83d705-37a3-4115-ada4-7af05afdb9ae" />
 
-
+<br />Turn Domain Profile Fire Wall State Off: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/f8186dc0-cba9-4c7f-acc7-ac34af4f9e0e" />
 
-
+<br />Turn Private Profile Fire Wall State Off: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/0c09b3d7-eeb6-4ef9-8a33-37f545bad20a" />
 
-
+<br />Turn Public Profile Fire Wall State Off <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bcb23d84-10fb-4021-b3a3-fd958b0908e5" />
 
-
+<br />Display Over View that all 3 Firewalls has been turn off: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/f09755f2-9fe6-40fd-8226-b584a5aea51b" />
 
 

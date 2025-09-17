@@ -63,7 +63,7 @@
 <br />Turn Private Profile Fire Wall State Off: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/0c09b3d7-eeb6-4ef9-8a33-37f545bad20a" />
 
-<br />Turn Public Profile Fire Wall State Off <br/>
+<br />Turn Public Profile Fire Wall State Off: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bcb23d84-10fb-4021-b3a3-fd958b0908e5" />
 
 <br />Display Over View that all 3 Firewalls has been turn off: <br/>
@@ -72,29 +72,30 @@
 
 <h2>Create Ticket as a End User</h2>
 
-
+<br />Click Open a New Ticket: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/0d768e6d-72cb-44e0-ac18-d60ee4507cec" />
 
-
+<br />Click on Create a New Ticket <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/eb1e5f38-1a21-445f-8633-603fc8606eea" />
 
-
+<br />Fill out Contact Information & Select Help Topic: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/76180ccf-3c13-46e7-bbd4-cff4a5ccdd59" />
 
-
+<br />Fill out issue Summary & Give a brief Summary of Occuring issue: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/807bd0d0-6428-423e-9237-eef114087a9e" />
 
-
+<br />Click Create Ticket: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/01f30a0b-056f-44a7-bb17-59f6fa41dc1b" />
 
 
 
 <h2>Powershell Commands</h2>
 
-
+<br />1. Use Command Ping on IP Address 10.0.0.4 to insure IP Address is Working 
+2. Use Command Host Name to show name of computer and network name: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/24a4e05a-f8ac-49f3-a401-412700cc4ecd" />
 
-
+<br />Use Command ipconfig/all to show detailed network information about a Computer: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ac85664e-2104-4541-856d-6de4bcda6634" />
 
 

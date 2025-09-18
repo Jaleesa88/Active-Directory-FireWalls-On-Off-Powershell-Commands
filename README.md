@@ -1,7 +1,7 @@
 ### Hello My Name is Jaleesa Perry-Mack
 
 
-<h1>INFORMATION TECHNOLOGY AZURE PROJECT</h1>
+<h1>MICROSOFT AZURE/INFORMATION TECHNOLOGY PROJECT</h1>
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/df33b2dc-40fd-4961-aaf8-a46535412c4a" />
 

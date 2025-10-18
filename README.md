@@ -70,24 +70,6 @@
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/f09755f2-9fe6-40fd-8226-b584a5aea51b" />
 
 
-<h2>Create Ticket as a End User</h2>
-
-<br />Click Open a New Ticket: <br/>
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/0d768e6d-72cb-44e0-ac18-d60ee4507cec" />
-
-<br />Click on Create a New Ticket <br/>
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/eb1e5f38-1a21-445f-8633-603fc8606eea" />
-
-<br />Fill out Contact Information & Select Help Topic: <br/>
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/76180ccf-3c13-46e7-bbd4-cff4a5ccdd59" />
-
-<br />Fill out issue Summary & Give a brief Summary of Occuring issue: <br/>
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/807bd0d0-6428-423e-9237-eef114087a9e" />
-
-<br />Click Create Ticket: <br/>
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/01f30a0b-056f-44a7-bb17-59f6fa41dc1b" />
-
-
 
 <h2>Powershell Commands</h2>
 

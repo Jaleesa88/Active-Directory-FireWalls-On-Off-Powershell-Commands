@@ -308,7 +308,7 @@
 
 <h1>OS TICKET PROJECT</h1>
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dac5c9b1-2d72-44ea-b597-d5adbbbec6e5" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dca68094-1170-4145-a2f9-10f0fd15cb2d" />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -328,9 +328,9 @@
 
   -Create Ticket as a End User
 
-  -Create Teams
+  -Create New Agent
 
-  -Create Employees
+  -Create New Team 
 
   -Create Service Level Agreement
 
@@ -359,74 +359,65 @@
 
 
 
-<h2>Creating Teams</h2>
+<h2>CREATE NEW AGENT </h2>
+
+<br />STEP 1: SELECT AGENT TAB <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/b300c47e-2cd6-4adf-95ab-fd9d0734e9d4" />
+
+<br />STEP 2: SELECT ADD NEW AGENT <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/8719ed72-f248-4f20-b2ad-706b7581af8a" />
+
+<br />STEP 3: ADD NEW AGENT KAREN ANDERSON <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/784edb55-58a9-4f84-9845-a3cdc3b43883" />
+
+<br />STEP 4: SET KAREN PASSWORD <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/26ce4b62-3a49-4f4c-90b1-d9239cd9fb44" />
+
+<br />STEP 5: SET KAREN STATUS UNDER ACCOUNT TAB <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/126e6379-4670-4aa6-82f0-fc632277b0c5" />
+
+<br />STEP 6: UNDER ACCESS TAB SET KAREN ACCESS TO LIMITED ACCESS <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/45146f2d-131c-4a75-96b4-dc76635025f3" />
+
+<br />STEP 7: UNDER PERMISSION TAB CHECK ALL UNDER USER TAB & CLICK CREATE <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/de8da598-0abf-4329-af3c-6a8d0bb96c8b" />
+
+<br />STEP 8: UNDER TEAMS TAB ASSIGN KAREN LEVEL 1 SUPPORT & CLICK SAVE CHANGES <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/5e52b8bb-6360-42f9-b32c-46810a5e045f" />
+
+<br />SUCCESSFULLY ADDED KAREN <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/32a463fe-5310-4647-a763-d55d894d3462" />
 
 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca101daf-1171-4eae-ac44-4bd5e4d4d880" />
+<h2>CREATE NEW TEAM </h2>
 
+<br />STEP 1: SELECT TEAMS UNDER AGENT TAB <br /> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/63176e37-968d-4e73-bf48-4bae861ee953" />
 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ea50b18b-2dcc-4903-acfa-6b5500762034" />
+<br />STEP 2: SELECT ADD NEW TEAMS <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/fae94764-1d14-4c29-ae88-ebb10537c430" />
 
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/668c5d7d-7816-4e04-8f02-326381b67e4c" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/be281e73-0854-487c-8ea7-fe30fc42d2cf" />
-
-
-
-
-
-
-
-
-
-  <h2>Creating Employees</h2>
-
-  <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/aed34961-c8a9-433d-af40-fbd1f56b5699" />
-
-
-  <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/09a9e2df-62fb-4f9a-a93d-733769aa7938" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/af0540cd-ca72-42c2-98af-a1496eaeb0be" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/d351dc5f-172b-4de3-a3b8-48ca66883397" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/1e80997e-fdfd-4f30-85e2-7eda2aabf37f" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/3617c2cc-91c3-473e-970c-e756a8824936" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e6f62863-42a4-4b86-9078-40c288df41d0" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/4c44ff45-941b-4123-8579-90935655d41e" />
-
+<br />STEP 3: CREATE NAME FOR TEAM & CLICK CREATE <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/8954dead-d4b0-4e93-9512-92e88d777919" />
 
 
   
 
 
 
-<h2>Creating SLA STEPS</h2>
+<h2>CREATE SLA </h2>
 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/c6ffca74-f919-4d0f-9617-9048a2f8f413" />
+<br />STEP 1: SELECT MANAGE TAB <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/a7d93d8f-7d1f-47e6-9533-c910a6518f82" />
 
+<br />STEP 2: SELECT SLA TAB <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/bd5420a9-47f5-49e0-8cff-9bcb962d692e" />
 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ee5048ad-e0be-4b5a-96ab-3f8ebcbb0334" />
+<br />STEP 3: SELECT ADD NEW SLA PLAN <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/06fd502b-d287-4d05-b7f0-9c8f01577e5d" />
 
+<br />STEP 4: CREATE NAME AS SEV-A, ADD 1 HOUR FOR GRACE PERIOD, SELECT 24/7 SCHEDULE IN DROP BOX, AND CLICK CREATE <br />
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/59e3ae25-0a8d-473d-b7f4-1794d65e0563" />
 
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/4a36a17a-2f13-4106-8815-d39641a1f6ba" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/3c088b59-d5e8-4b59-9d69-0ae2de617e54" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/b408b6de-bcc6-4d97-a617-ffd1f6fd7cd9" />
-
-
-<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/23197506-fba8-4cd6-9d68-18dd368ee761" />
+<br />SLA SUCCESSFULLY ADDED <br/> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/71245e7d-6190-47b9-bbef-c24a02663088" />

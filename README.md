@@ -87,7 +87,7 @@
 
 
 
-<h1> MICROSOFT AZURE PROJECTS STEPS </h1>
+<h1> MICROSOFT AZURE PROJECTS </h1>
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccb02146-3ada-493d-8de3-f9b789c0467c" />
 
 <h2>Environments and Technologies Used</h2>
@@ -180,3 +180,199 @@
 
 
 
+
+
+<h1>Remote Desktop Project</h1>
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c3a6577-93e1-4c42-87fa-6a2483b31707" />
+
+<h2>Enviroments and Technologies Used</h2>
+
+- Microsoft Azure Resouce Group
+
+- Micrososft Azure Virtual Machine
+
+- Remote Desktop
+
+
+<h2>Operating Systems Used</h2>
+
+- Windows 11 Pro (version 24HZ)
+
+- Domain Controller
+
+- Windows Server 2022
+
+<h2>Steps to Create Remote Desktop</h2>
+
+
+<b /> CLICK VM-1 <b /> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/145dc211-afe7-4e89-9efe-26d5c3c9952f" />
+
+
+
+<b /> COPY PUBLIC IP ADDRESS <b /> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/cd797538-b799-4558-af3e-56aef3f8d76c" />
+
+
+
+<b /> ADD PC <b />  
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/8951844f-d05c-4bab-a53f-ee6b9312745d" />
+
+
+
+<b /> 1.PASTE COPY PUBLIC IP ADDRESS IN PC NAME SECTION 2.IN FRIENDLY NAME SECTION CREATE NAME FOR PC & CLICK OK <b />
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/60ec7a6f-81fb-4a7f-b6b5-9807fc27cfcf" />
+
+
+
+<b /> CLICK ON 3 DOTS ON TOP RIGHT SIDE OF CREATED PC & CLICK CONNECT <b /> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/8367083f-9619-41a2-852f-be2953cdfed3" />
+
+
+
+<b /> ENTER CREDENTIALS FOR USER NAME (SAME AS PC NAME) & PASSWORD <b />
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/6a235056-9d66-46e6-9f49-989dccfb02da" />
+
+
+
+<b /> REMOTE PC WELCOME PAGE WILL APPEAR <b />  
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/282bccbd-c4aa-49d6-b969-1f76cd238cdd" />
+
+<b /> WINDOW HOME SCREEN WILL APPEAR WHEN REMOTE ACCESS IS CONNECTED <b /> 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e24e3782-cc94-4f33-96f4-443e4fcd8c21" />
+
+
+
+
+
+
+
+
+
+
+
+<h1>OS TICKET PROJECT</h1>
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dac5c9b1-2d72-44ea-b597-d5adbbbec6e5" />
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure VM
+
+- Remote Desktop
+
+<h2>Operating Systems Used</h2>
+
+- Microsoft Azure
+
+- Windows 11
+
+- Os Ticket
+
+  <h2>OS Ticket Steps</h2>
+
+  -Create Ticket as a End User
+
+  -Create Teams
+
+  -Create Employees
+
+  -Create Service Level Agreement
+
+
+<h2>Create Ticket as a End User</h2>
+
+<br />Click Open a New Ticket: <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/0d768e6d-72cb-44e0-ac18-d60ee4507cec" />
+
+<br />Click on Create a New Ticket <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/eb1e5f38-1a21-445f-8633-603fc8606eea" />
+
+<br />Fill out Contact Information & Select Help Topic: <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/76180ccf-3c13-46e7-bbd4-cff4a5ccdd59" />
+
+<br />Fill out issue Summary & Give a brief Summary of Occuring issue: <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/807bd0d0-6428-423e-9237-eef114087a9e" />
+
+<br />Click Create Ticket: <br/>
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/01f30a0b-056f-44a7-bb17-59f6fa41dc1b" />
+
+
+
+
+
+
+
+
+<h2>Creating Teams</h2>
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ca101daf-1171-4eae-ac44-4bd5e4d4d880" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ea50b18b-2dcc-4903-acfa-6b5500762034" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/668c5d7d-7816-4e04-8f02-326381b67e4c" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/be281e73-0854-487c-8ea7-fe30fc42d2cf" />
+
+
+
+
+
+
+
+
+
+  <h2>Creating Employees</h2>
+
+  <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/aed34961-c8a9-433d-af40-fbd1f56b5699" />
+
+
+  <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/09a9e2df-62fb-4f9a-a93d-733769aa7938" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/af0540cd-ca72-42c2-98af-a1496eaeb0be" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/d351dc5f-172b-4de3-a3b8-48ca66883397" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/1e80997e-fdfd-4f30-85e2-7eda2aabf37f" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/3617c2cc-91c3-473e-970c-e756a8824936" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e6f62863-42a4-4b86-9078-40c288df41d0" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/4c44ff45-941b-4123-8579-90935655d41e" />
+
+
+
+  
+
+
+
+<h2>Creating SLA STEPS</h2>
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/c6ffca74-f919-4d0f-9617-9048a2f8f413" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/ee5048ad-e0be-4b5a-96ab-3f8ebcbb0334" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/4a36a17a-2f13-4106-8815-d39641a1f6ba" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/3c088b59-d5e8-4b59-9d69-0ae2de617e54" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/b408b6de-bcc6-4d97-a617-ffd1f6fd7cd9" />
+
+
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/23197506-fba8-4cd6-9d68-18dd368ee761" />

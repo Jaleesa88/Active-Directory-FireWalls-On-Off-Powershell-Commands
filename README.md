@@ -36,7 +36,6 @@
 
 <h2>Creating Organizational Unit</h2>
 
-
 <br />Click On Mydomain.com: <br/>
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e90eb5ad-d9fd-41ff-b145-b756da208284" />
 
